@@ -1,0 +1,25 @@
+/* styles.css */
+
+.CustomDesStyle {
+  color: #717171;
+  font-size: 9.74px;
+  line-height: 13.92px;
+  font-weight: 400;
+}
+
+.custom-heading{
+
+  text-align: center;
+  font-weight: 600;
+  font-size: 30px;
+  color: #4D4D4D;
+
+
+}
+
+@media (max-width: 640px) {
+  .custom-heading {
+    font-size: 20px;
+  }
+}
+
